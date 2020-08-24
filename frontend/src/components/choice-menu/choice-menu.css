@@ -1,0 +1,21 @@
+.choice-menu {
+    width: 1000px;
+    margin: 20px auto;
+}
+
+.choice-menu__select {
+    background-color: #CFE2F3;
+    border-radius: 3px;
+    width: 100px;
+    height: 25px;
+    font-size: 16px;
+}
+
+.choice-menu__button {
+    cursor: pointer;
+    background-color: #CFE2F3;
+    margin: 0 20px;
+    border: 1px solid #000;
+    border-radius: 3px;
+    height: 25px;
+}

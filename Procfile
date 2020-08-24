@@ -1,0 +1,1 @@
+web: gunicorn monitor_board.wsgi --log-file -

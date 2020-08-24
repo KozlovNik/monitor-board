@@ -1,0 +1,17 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.table {
+    width: 1000px;
+    margin: 20px auto 0;
+    background-color: #CFE2F3;
+    font-family: helvetica;
+    border-collapse: collapse;
+}
+
+.table__th {
+    font-weight: 400;
+    border: 1px solid rgb(73, 73, 73);
+}
